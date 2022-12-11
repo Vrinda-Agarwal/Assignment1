@@ -23,6 +23,6 @@ output: sorted array printed in terminal
 input: string from user
 output: modified strings 1,2,3 on terminal
 
-github repo link: https://github.com/Shambhaviiiit/ISS_Assignment1
+
 
 
